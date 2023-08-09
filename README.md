@@ -1,2 +1,2 @@
 # Game-suwit-jawa
-game suwit jawa sederhana dengan menggunakan bahasa python 
+Tugas perkuliahan | game suwit jawa sederhana dengan menggunakan bahasa python.
