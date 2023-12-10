@@ -1,7 +1,7 @@
 # Game-suwit-jawa
 This project just for fun. Happy coding🤓
 
-![sample-image](https://github.com/MuhamadAndre10/Game-suwit-jawa/sample.png?raw=true)
+![sample-image](https://github.com/MuhamadAndre10/Game-suwit-jawa/blob/main/sample.png?raw=true)
 
 ## Getting Started
 - install python in your computer [install](https://www.python.org/)
