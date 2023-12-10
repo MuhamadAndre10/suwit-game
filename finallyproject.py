@@ -52,8 +52,8 @@ def garis():
 
 #pengulangan game
 while (True):        
-    print(colored("KAMU DI BERI PILIHAN UNTUK BERMAIN MELAWAN KOMPUTER, SILAHKAN BERMAIN\n", "white"))
-    print(colored("\tKAMU MEMILIKI PILIHAN INPUTAN ( GAJAH | SEMUT | ORANG )".upper(), "white"))
+    print(colored("KAMU DI BERI PILIHAN UNTUK BERMAIN MELAWAN KOMPUTER, SILAHKAN BERMAIN\n", "cyan"))
+    print(colored("\tKAMU MEMILIKI PILIHAN INPUTAN ( GAJAH | SEMUT | ORANG )".upper(), "cyan"))
 
     # cek inputan user/player
     while(True):              
